@@ -1,0 +1,17 @@
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/MailServices.deps.json
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/MailServices.dll
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/MailServices.pdb
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/ConfigServices.dll
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/LogServices.dll
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/ConfigServices.pdb
+/Users/liminghao/Projects/MailSender/MailServices/bin/Debug/net7.0/LogServices.pdb
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.csproj.AssemblyReference.cache
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.AssemblyInfoInputs.cache
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.AssemblyInfo.cs
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.csproj.CoreCompileInputs.cache
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.csproj.CopyComplete
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.dll
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/refint/MailServices.dll
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/MailServices.pdb
+/Users/liminghao/Projects/MailSender/MailServices/obj/Debug/net7.0/ref/MailServices.dll

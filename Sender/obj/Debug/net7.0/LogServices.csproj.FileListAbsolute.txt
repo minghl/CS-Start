@@ -1,0 +1,12 @@
+/Users/liminghao/Projects/MailSender/Sender/bin/Debug/net7.0/LogServices.deps.json
+/Users/liminghao/Projects/MailSender/Sender/bin/Debug/net7.0/LogServices.dll
+/Users/liminghao/Projects/MailSender/Sender/bin/Debug/net7.0/LogServices.pdb
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.csproj.AssemblyReference.cache
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.AssemblyInfoInputs.cache
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.AssemblyInfo.cs
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.csproj.CoreCompileInputs.cache
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.dll
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/refint/LogServices.dll
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/LogServices.pdb
+/Users/liminghao/Projects/MailSender/Sender/obj/Debug/net7.0/ref/LogServices.dll

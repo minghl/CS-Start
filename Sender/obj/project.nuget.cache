@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mz+alJoVCJp7tN/7fl5Gs+2zxnliF24jb4Lw/cWN+hrCl8RUSRbuhd9z83q5DdFjz2V6U6L8l+f9jUtuG1VQqQ==",
+  "success": true,
+  "projectFilePath": "/Users/liminghao/Projects/MailSender/Sender/LogServices.csproj",
+  "expectedPackageFiles": [
+    "/Users/liminghao/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/liminghao/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
